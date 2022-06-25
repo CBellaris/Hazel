@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14aa6e88-84cb-4f15-ad1e-14bf442eae46": {
+      "ProjectGuid": "14aa6e88-84cb-4f15-ad1e-14bf442eae46",
+      "DisplayName": "Hazel",
+      "ColorIndex": 0
+    },
+    "9637eb59-83c7-4c61-a854-22ee09d09995": {
+      "ProjectGuid": "9637eb59-83c7-4c61-a854-22ee09d09995",
+      "DisplayName": "SandBox",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
